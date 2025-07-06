@@ -1,5 +1,5 @@
 
-## FORM DATA PERSONAL
+## PERSONAL DATA FORM
 
 In this form, users will be able to input their personal data to be saved.
 
