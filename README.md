@@ -1,8 +1,11 @@
 ## FORMULARIO DE DATOS PERSONALES
+## FORM DATA PERSONAL
 
 En este formualario pondran ingresar sus datos personales para ser guardados.
+In this form, users will be able to input their personal data to be saved.
 
 ### Tecnologias Utilizadas:
+### Technologies Used:
 
 * java 11
 * java swing
